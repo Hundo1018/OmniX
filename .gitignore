@@ -1,0 +1,21 @@
+# Rust
+/target/
+*.rs.bk
+
+# Node.js
+node_modules/
+dist/
+package-lock.json
+
+# Svelte
+/build/
+public/build/
+.svelte-kit/
+
+# VSCode
+.vscode/
+
+# Others
+*.log
+*.tmp
+.DS_Store
